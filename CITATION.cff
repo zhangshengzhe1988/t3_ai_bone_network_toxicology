@@ -16,7 +16,7 @@ authors:
     affiliation: "Yangzhou University"
 type: software
 license: MIT
-repository-code: "https://github.com/<your-account>/t3_ai_bone_network_toxicology"
+repository-code: "https://github.com/zhangshengzhe1988/t3_ai_bone_network_toxicology"
 keywords:
   - aromatase inhibitors
   - network toxicology
