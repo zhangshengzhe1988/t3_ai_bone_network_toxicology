@@ -55,4 +55,7 @@ Code: MIT (`LICENSE`). Derived tables and figures: CC BY 4.0.
 
 ## Citation
 
-See `CITATION.cff`. A Zenodo DOI will be added on first release.
+See `CITATION.cff`.
+
+- Repository: https://github.com/zhangshengzhe1988/t3_ai_bone_network_toxicology
+- Zenodo DOI: to be added on the first release
