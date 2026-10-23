@@ -1,5 +1,7 @@
 # AI-associated bone loss: network toxicology of aromatase inhibitors
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23587583.svg)](https://doi.org/10.5281/zenodo.23587583)
+
 Code and derived data for the manuscript:
 
 > **Aromatase inhibitors as endocrine-disrupting pharmaceuticals: network toxicology links CYP19A1 inhibition to human bone risk and cross-species effects**
@@ -58,4 +60,4 @@ Code: MIT (`LICENSE`). Derived tables and figures: CC BY 4.0.
 See `CITATION.cff`.
 
 - Repository: https://github.com/zhangshengzhe1988/t3_ai_bone_network_toxicology
-- Zenodo DOI: to be added on the first release
+- Zenodo DOI: [10.5281/zenodo.23587583](https://doi.org/10.5281/zenodo.23587583)
