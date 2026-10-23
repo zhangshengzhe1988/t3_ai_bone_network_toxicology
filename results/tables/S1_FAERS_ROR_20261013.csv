@@ -1,0 +1,24 @@
+retrieval_date,2026-10-13T18:53:42.408188,window,2013-01-01+TO+2026-06-30,source,openFDA API
+
+drug,event,a,b,c,d,ROR,ROR_lo,ROR_hi,PRR,chi2,note
+letrozole,osteoporosis,290,55351,32677,17262840,2.768,2.465,3.108,2.759,319.49,
+anastrozole,osteoporosis,204,26399,32763,17291792,4.078,3.552,4.683,4.055,462.85,
+tamoxifen,osteoporosis,13,2325,32954,17315866,2.938,1.703,5.068,2.927,14.62,
+letrozole,osteoporotic fracture,25,55616,1578,17293939,4.926,3.318,7.314,4.925,72.91,
+anastrozole,osteoporotic fracture,7,26596,1596,17322959,2.857,1.36,6.003,2.856,6.65,
+
+year,letrozole_x_osteoporosis_reports
+2013,23
+2014,7
+2015,13
+2016,10
+2017,16
+2018,17
+2019,22
+2020,38
+2021,24
+2022,21
+2023,24
+2024,32
+2025,39
+2026,4

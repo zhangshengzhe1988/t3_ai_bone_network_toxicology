@@ -1,0 +1,4 @@
+retrieval_date,2026-10-15T15:34:47.087065,window,2013-01-01+TO+2026-06-30
+event,a,b,c,d,ROR,ROR_lo,ROR_hi,PRR,chi2
+osteoporosis,123,17890,32967,17300301,3.608,3.021,4.31,3.59,229.4
+osteoporotic fracture,1,18012,1603,17331543,0.6,0.084,4.264,0.6,0.3

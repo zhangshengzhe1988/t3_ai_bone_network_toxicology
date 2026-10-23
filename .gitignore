@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.rds
+*.pdbqt
+*.pdb
+*_gene_matrix.csv
+*_limma_all*.csv

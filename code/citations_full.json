@@ -1,0 +1,1572 @@
+{
+ "11752295": {
+  "title": "Gene Expression Omnibus: NCBI gene expression and hybridization array data repository.",
+  "journal": "Nucleic acids research",
+  "year": "2002",
+  "vol": "30",
+  "pages": "207-10",
+  "authors": "Edgar R, Domrachev M, Lash AE",
+  "doi": "10.1093/nar/30.1.207"
+ },
+ "12037327": {
+  "title": "The Protein Data Bank.",
+  "journal": "Acta crystallographica. Section D, Biological crystallography",
+  "year": "2002",
+  "vol": "58",
+  "pages": "899-907",
+  "authors": "Berman HM, Battistuz T, Bhat TN, Bluhm WF, Bourne PE, Burkhardt K, et al",
+  "doi": "10.1107/s0907444902003451"
+ },
+ "12942076": {
+  "title": "What is trogocytosis and what is its purpose?",
+  "journal": "Nature Immunology",
+  "year": "2003",
+  "vol": "4",
+  "pages": "815",
+  "authors": "Joly E, Hudrisier D",
+  "doi": "10.1038/ni0903-815"
+ },
+ "18593951": {
+  "title": "A gene signature predicting for survival in suboptimally debulked patients with ovarian cancer.",
+  "journal": "Cancer research",
+  "year": "2008",
+  "vol": "68",
+  "pages": "5478-86",
+  "authors": "Bonome T, Levine DA, Shih J, Randonovich M, Pise-Masison CA, Bogomolniy F, et al",
+  "doi": "10.1158/0008-5472.CAN-07-6595"
+ },
+ "18936753": {
+  "title": "Network pharmacology: the next paradigm in drug discovery.",
+  "journal": "Nature chemical biology",
+  "year": "2008",
+  "vol": "4",
+  "pages": "682-90",
+  "authors": "Hopkins AL",
+  "doi": "10.1038/nchembio.118"
+ },
+ "19114008": {
+  "title": "WGCNA: an R package for weighted correlation network analysis.",
+  "journal": "BMC bioinformatics",
+  "year": "2008",
+  "vol": "9",
+  "pages": "559",
+  "authors": "Langfelder P, Horvath S",
+  "doi": "10.1186/1471-2105-9-559"
+ },
+ "19358225": {
+  "title": "Quantitative signal detection using spontaneous ADR reporting.",
+  "journal": "Pharmacoepidemiology and drug safety",
+  "year": "2009",
+  "vol": "18",
+  "pages": "427-36",
+  "authors": "Bate A, Evans SJ",
+  "doi": "10.1002/pds.1742"
+ },
+ "19798449": {
+  "title": "Oncogenic pathway combinations predict clinical prognosis in gastric cancer.",
+  "journal": "PLoS genetics",
+  "year": "2009",
+  "vol": "5",
+  "pages": "e1000676",
+  "authors": "Ooi CH, Ivanova T, Wu J, Lee M, Tan IB, Tao J, et al",
+  "doi": "10.1371/journal.pgen.1000676"
+ },
+ "20427518": {
+  "title": "ConsensusClusterPlus: a class discovery tool with confidence assessments and item tracking.",
+  "journal": "Bioinformatics (Oxford, England)",
+  "year": "2010",
+  "vol": "26",
+  "pages": "1572-3",
+  "authors": "Wilkerson MD, Hayes DN",
+  "doi": "10.1093/bioinformatics/btq170"
+ },
+ "20808728": {
+  "title": "Regularization Paths for Generalized Linear Models via Coordinate Descent.",
+  "journal": "Journal of Statistical Software",
+  "year": "2010",
+  "vol": "33",
+  "pages": "1-22",
+  "authors": "Friedman J, Hastie T, Tibshirani R",
+  "doi": "10.18637/jss.v033.i01"
+ },
+ "21450337": {
+  "title": "Osteoporosis: now and the future.",
+  "journal": "Lancet (London, England)",
+  "year": "2011",
+  "vol": "377",
+  "pages": "1276-87",
+  "authors": "Rachner TD, Khosla S, Hofbauer LC",
+  "doi": "10.1016/S0140-6736(10)62349-5"
+ },
+ "22204725": {
+  "title": "A phase 3 trial of bevacizumab in ovarian cancer.",
+  "journal": "The New England journal of medicine",
+  "year": "2011",
+  "vol": "365",
+  "pages": "2484-96",
+  "authors": "Perren TJ, Swart AM, Pfisterer J, Ledermann JA, Pujade-Lauraine E, Kristensen G, et al",
+  "doi": "10.1056/NEJMoa1103799"
+ },
+ "23180760": {
+  "title": "Genomics of Drug Sensitivity in Cancer (GDSC): a resource for therapeutic biomarker discovery in cancer cells.",
+  "journal": "Nucleic acids research",
+  "year": "2013",
+  "vol": "41",
+  "pages": "D955-61",
+  "authors": "Yang W, Soares J, Greninger P, Edelman EJ, Lightfoot H, Forbes S, et al",
+  "doi": "10.1093/nar/gks1111"
+ },
+ "23323831": {
+  "title": "GSVA: gene set variation analysis for microarray and RNA-seq data.",
+  "journal": "BMC bioinformatics",
+  "year": "2013",
+  "vol": "14",
+  "pages": "7",
+  "authors": "H\u00e4nzelmann S, Castelo R, Guinney J",
+  "doi": "10.1186/1471-2105-14-7"
+ },
+ "24027076": {
+  "title": "Estimating and comparing time-dependent areas under receiver operating characteristic curves for censored event times with competing risks.",
+  "journal": "Statistics in medicine",
+  "year": "2013",
+  "vol": "32",
+  "pages": "5381-97",
+  "authors": "Blanche P, Dartigues JF, Jacqmin-Gadda H",
+  "doi": "10.1002/sim.5958"
+ },
+ "24138885": {
+  "title": "Spatiotemporal dynamics of intratumoral immune cells reveal the immune landscape in human cancer.",
+  "journal": "Immunity",
+  "year": "2013",
+  "vol": "39",
+  "pages": "782-95",
+  "authors": "Bindea G, Mlecnik B, Tosolini M, Kirilovsky A, Waldner M, Obenauf AC, et al",
+  "doi": "10.1016/j.immuni.2013.10.003"
+ },
+ "24743597": {
+  "title": "The adaptor protein GULP promotes Jedi-1-mediated phagocytosis through a clathrin-dependent mechanism.",
+  "journal": "Molecular biology of the cell",
+  "year": "2014",
+  "vol": "25",
+  "pages": "1925-36",
+  "authors": "Sullivan CS, Scheib JL, Ma Z, Dang RP, Schafer JM, Hickman FE, et al",
+  "doi": "10.1091/mbc.E13-11-0658"
+ },
+ "25925576": {
+  "title": "Why weight? Modelling sample and observational level variability improves power in RNA-seq analyses.",
+  "journal": "Nucleic acids research",
+  "year": "2015",
+  "vol": "43",
+  "pages": "e97",
+  "authors": "Liu R, Holik AZ, Su S, Jansz N, Chen K, Leong HS, et al",
+  "doi": "10.1093/nar/gkv412"
+ },
+ "26644398": {
+  "title": "OpenFDA: an innovative platform providing access to a wealth of FDA's publicly available data.",
+  "journal": "Journal of the American Medical Informatics Association : JAMIA",
+  "year": "2016",
+  "vol": "23",
+  "pages": "596-600",
+  "authors": "Kass-Hout TA, Xu Z, Mohebbi M, Nelsen H, Baker A, Levine J, et al",
+  "doi": "10.1093/jamia/ocv153"
+ },
+ "27322403": {
+  "title": "The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses.",
+  "journal": "Current protocols in bioinformatics",
+  "year": "2016",
+  "vol": "54",
+  "pages": "1.30.1-1.30.33",
+  "authors": "Stelzer G, Rosen N, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, et al",
+  "doi": "10.1002/cpbi.5"
+ },
+ "28413689": {
+  "title": "L1000CDS(2): LINCS L1000 characteristic direction signatures search engine.",
+  "journal": "NPJ Systems Biology and Applications",
+  "year": "2016",
+  "vol": "2",
+  "pages": "16015-",
+  "authors": "Duan Q, Reid SP, Clark NR, Wang Z, Fernandez NF, Rouillard AD, et al",
+  "doi": "10.1038/npjsba.2016.15"
+ },
+ "28951564": {
+  "title": "Mechanobiology of YAP and TAZ in physiology and disease.",
+  "journal": "Nature reviews. Molecular cell biology",
+  "year": "2017",
+  "vol": "18",
+  "pages": "758-770",
+  "authors": "Panciera T, Azzolin L, Cordenonsi M, Piccolo S",
+  "doi": "10.1038/nrm.2017.87"
+ },
+ "29118008": {
+  "title": "CTLA-4: a moving target in immunotherapy.",
+  "journal": "Blood",
+  "year": "2018",
+  "vol": "131",
+  "pages": "58-67",
+  "authors": "Rowshanravan B, Halliday N, Sansom DM",
+  "doi": "10.1182/blood-2017-06-741033"
+ },
+ "29464667": {
+  "title": "Economic Evaluation of Bevacizumab for Treatment of Platinum-Resistant Recurrent Ovarian Cancer in Canada.",
+  "journal": "PharmacoEconomics - open",
+  "year": "2018",
+  "vol": "2",
+  "pages": "19-29",
+  "authors": "Ball G, Xie F, Tarride JE",
+  "doi": "10.1007/s41669-017-0030-7"
+ },
+ "29625048": {
+  "title": "Cell-of-Origin Patterns Dominate the Molecular Classification of 10,000 Tumors from 33 Types of Cancer.",
+  "journal": "Cell",
+  "year": "2018",
+  "vol": "173",
+  "pages": "291-304.e6",
+  "authors": "Hoadley KA, Yau C, Hinoue T, Wolf DM, Lazar AJ, Drill E, et al",
+  "doi": "10.1016/j.cell.2018.03.022"
+ },
+ "30002479": {
+  "title": "Every step of the way: integrins in cancer progression and metastasis.",
+  "journal": "Nature reviews. Cancer",
+  "year": "2018",
+  "vol": "18",
+  "pages": "533-548",
+  "authors": "Hamidi H, Ivaska J",
+  "doi": "10.1038/s41568-018-0038-z"
+ },
+ "30013197": {
+  "title": "Comprehensive molecular characterization of clinical responses to PD-1 inhibition in metastatic gastric cancer.",
+  "journal": "Nature Medicine",
+  "year": "2018",
+  "vol": "24",
+  "pages": "1449-1458",
+  "authors": "Kim ST, Cristescu R, Bass AJ, Kim KM, Odegaard JI, Kim K, et al",
+  "doi": "10.1038/s41591-018-0101-z"
+ },
+ "30127393": {
+  "title": "Signatures of T cell dysfunction and exclusion predict cancer immunotherapy response.",
+  "journal": "Nature Medicine",
+  "year": "2018",
+  "vol": "24",
+  "pages": "1550-1558",
+  "authors": "Jiang P, Gu S, Pan D, Fu J, Sahu A, Hu X, et al",
+  "doi": "10.1038/s41591-018-0136-1"
+ },
+ "30705430": {
+  "title": "Author Correction: Every step of the way: integrins in cancer progression and metastasis.",
+  "journal": "Nature reviews. Cancer",
+  "year": "2019",
+  "vol": "19",
+  "pages": "179",
+  "authors": "Hamidi H, Ivaska J",
+  "doi": "10.1038/s41568-019-0112-1"
+ },
+ "30910306": {
+  "title": "Epithelial ovarian cancer.",
+  "journal": "Lancet (London, England)",
+  "year": "2019",
+  "vol": "393",
+  "pages": "1240-1253",
+  "authors": "Lheureux S, Gourley C, Vergote I, Oza AM",
+  "doi": "10.1016/S0140-6736(18)32552-2"
+ },
+ "31106366": {
+  "title": "SwissTargetPrediction: updated data and new features for efficient prediction of protein targets of small molecules.",
+  "journal": "Nucleic acids research",
+  "year": "2019",
+  "vol": "47",
+  "pages": "W357-W364",
+  "authors": "Daina A, Michielin O, Zoete V",
+  "doi": "10.1093/nar/gkz382"
+ },
+ "31220415": {
+  "title": "Bone biology: insights from osteogenesis imperfecta and related rare fragility syndromes.",
+  "journal": "The FEBS journal",
+  "year": "2019",
+  "vol": "286",
+  "pages": "3033-3056",
+  "authors": "Besio R, Chow CW, Tonelli F, Marini JC, Forlino A",
+  "doi": "10.1111/febs.14963"
+ },
+ "31713161": {
+  "title": "Pharmaco-Geno-Proteo-Metabolomics and Translational Research in Cancer.",
+  "journal": "Advances in experimental medicine and biology",
+  "year": "2019",
+  "vol": "1168",
+  "pages": "1-7",
+  "authors": "Fern\u00e1ndez-Figueroa EA, Lino-Silva S, Pe\u00f1a-Velasco JE, Rangel-Escare\u00f1o C",
+  "doi": "10.1007/978-3-030-24100-1_1"
+ },
+ "32102694": {
+  "title": "Large-scale public data reuse to model immunotherapy response and resistance.",
+  "journal": "Genome medicine",
+  "year": "2020",
+  "vol": "12",
+  "pages": "21",
+  "authors": "Fu J, Li K, Zhang W, Wan C, Zhang J, Jiang P, et al",
+  "doi": "10.1186/s13073-020-0721-z"
+ },
+ "33538338": {
+  "title": "Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries.",
+  "journal": "CA: a cancer journal for clinicians",
+  "year": "2021",
+  "vol": "71",
+  "pages": "209-249",
+  "authors": "Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al",
+  "doi": "10.3322/caac.21660"
+ },
+ "33597522": {
+  "title": "Inference and analysis of cell-cell communication using CellChat.",
+  "journal": "Nature communications",
+  "year": "2021",
+  "vol": "12",
+  "pages": "1088",
+  "authors": "Jin S, Guerrero-Juarez CF, Zhang L, Chang I, Ramos R, Kuan CH, et al",
+  "doi": "10.1038/s41467-021-21246-9"
+ },
+ "33997170": {
+  "title": "Depletion of VPS35 attenuates metastasis of hepatocellular carcinoma by restraining the Wnt/PCP signaling pathway.",
+  "journal": "Genes & diseases",
+  "year": "2021",
+  "vol": "8",
+  "pages": "232-240",
+  "authors": "Liu Y, Deng H, Liang L, Zhang G, Xia J, Ding K, et al",
+  "doi": "10.1016/j.gendis.2020.07.009"
+ },
+ "34102137": {
+  "title": "First-line nivolumab plus chemotherapy versus chemotherapy alone for advanced gastric, gastro-oesophageal junction, and oesophageal adenocarcinoma (CheckMate 649): a randomised, open-label, phase 3 trial.",
+  "journal": "Lancet (London, England)",
+  "year": "2021",
+  "vol": "398",
+  "pages": "27-40",
+  "authors": "Janjigian YY, Shitara K, Moehler M, Garrido M, Salman P, Shen L, et al",
+  "doi": "10.1016/S0140-6736(21)00797-2"
+ },
+ "34260682": {
+  "title": "oncoPredict: an R package for predicting in vivo or cancer patient drug response and biomarkers from cell line screening data.",
+  "journal": "Briefings in Bioinformatics",
+  "year": "2021",
+  "vol": "22",
+  "pages": "bbab260",
+  "authors": "Maeser D, Gruener RF, Huang RS",
+  "doi": "10.1093/bib/bbab260"
+ },
+ "34278794": {
+  "title": "AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings.",
+  "journal": "Journal of chemical information and modeling",
+  "year": "2021",
+  "vol": "61",
+  "pages": "3891-3898",
+  "authors": "Eberhardt J, Santos-Martins D, Tillack AF, Forli S",
+  "doi": "10.1021/acs.jcim.1c00203"
+ },
+ "34324367": {
+  "title": "Endocrine Treatment and Targeted Therapy for Hormone Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer: ASCO Guideline Update.",
+  "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+  "year": "2021",
+  "vol": "39",
+  "pages": "3959-3977",
+  "authors": "Burstein HJ, Somerfield MR, Barton DL, Dorris A, Fallowfield LJ, Jain D, et al",
+  "doi": "10.1200/JCO.21.01392"
+ },
+ "34557778": {
+  "title": "clusterProfiler 4.0: A universal enrichment tool for interpreting omics data.",
+  "journal": "Innovation (Cambridge (Mass.))",
+  "year": "2021",
+  "vol": "2",
+  "pages": "100141",
+  "authors": "Wu T, Hu E, Xu S, Chen M, Guo P, Dai Z, et al",
+  "doi": "10.1016/j.xinn.2021.100141"
+ },
+ "34764492": {
+  "title": "Identifying phenotype-associated subpopulations by integrating bulk and single-cell sequencing data.",
+  "journal": "Nature biotechnology",
+  "year": "2022",
+  "vol": "40",
+  "pages": "527-538",
+  "authors": "Sun D, Guan X, Moran AE, Wu LY, Qian DZ, Schedin P, et al",
+  "doi": "10.1038/s41587-021-01091-3"
+ },
+ "34895945": {
+  "title": "Network pharmacology: curing causal mechanisms instead of treating symptoms.",
+  "journal": "Trends in pharmacological sciences",
+  "year": "2022",
+  "vol": "43",
+  "pages": "136-150",
+  "authors": "Nogales C, Mamdouh ZM, List M, Kiel C, Casas AI, Schmidt HHHW",
+  "doi": "10.1016/j.tips.2021.11.004"
+ },
+ "35182301": {
+  "title": "Sfrp4 and the Biology of Cortical Bone.",
+  "journal": "Current osteoporosis reports",
+  "year": "2022",
+  "vol": "20",
+  "pages": "153-161",
+  "authors": "Chen R, Baron R, Gori F",
+  "doi": "10.1007/s11914-022-00727-w"
+ },
+ "35510185": {
+  "title": "scTenifoldKnk: An efficient virtual knockout tool for gene function predictions via single-cell gene regulatory network perturbation.",
+  "journal": "Patterns (New York, N.Y.)",
+  "year": "2022",
+  "vol": "3",
+  "pages": "100434",
+  "authors": "Osorio D, Zhong Y, Li G, Xu Q, Yang Y, Tian Y, et al",
+  "doi": "10.1016/j.patter.2022.100434"
+ },
+ "35536015": {
+  "title": "A look at current and potential treatment approaches for hormone receptor-positive, HER2-negative early breast cancer.",
+  "journal": "Cancer",
+  "year": "2022",
+  "vol": "128 Suppl 11",
+  "pages": "2209-2223",
+  "authors": "Harbeck N, Burstein HJ, Hurvitz SA, Johnston S, Vidal GA",
+  "doi": "10.1002/cncr.34161"
+ },
+ "35732878": {
+  "title": "Effect of E-cadherin on Prognosis of Colorectal Cancer: A Meta-Analysis Update.",
+  "journal": "Molecular diagnosis & therapy",
+  "year": "2022",
+  "vol": "26",
+  "pages": "397-409",
+  "authors": "Chang K, Jiang L, Sun Y, Li H",
+  "doi": "10.1007/s40291-022-00593-3"
+ },
+ "36370105": {
+  "title": "The STRING database in 2023: protein-protein association networks and functional enrichment analyses for any sequenced genome of interest.",
+  "journal": "Nucleic acids research",
+  "year": "2023",
+  "vol": "51",
+  "pages": "D638-D646",
+  "authors": "Szklarczyk D, Kirsch R, Koutrouli M, Nastou K, Mehryary F, Hachilif R, et al",
+  "doi": "10.1093/nar/gkac1000"
+ },
+ "36403719": {
+  "title": "Properties of FDA-approved small molecule protein kinase inhibitors: A 2023 update.",
+  "journal": "Pharmacological research",
+  "year": "2023",
+  "vol": "187",
+  "pages": "106552",
+  "authors": "Roskoski R Jr",
+  "doi": "10.1016/j.phrs.2022.106552"
+ },
+ "36624667": {
+  "title": "The 2023 Nucleic Acids Research Database Issue and the online molecular biology database collection.",
+  "journal": "Nucleic acids research",
+  "year": "2023",
+  "vol": "51",
+  "pages": "D1-D8",
+  "authors": "Rigden DJ, Fern\u00e1ndez XM",
+  "doi": "10.1093/nar/gkac1186"
+ },
+ "37156482": {
+  "title": "Evaluation of Scores to Reflect Toxicity Impact on Quality of Life of Patients With Platinum-Resistant Ovarian Cancer: AURELIA Substudy.",
+  "journal": "Journal of the National Comprehensive Cancer Network : JNCCN",
+  "year": "2023",
+  "vol": "21",
+  "pages": "473-479.e4",
+  "authors": "Lequesne J, Joly F, Peron J, Ray-Coquard I, Hardy-Bessard AC, Selle F, et al",
+  "doi": "10.6004/jnccn.2022.7101"
+ },
+ "37214253": {
+  "title": "Cuproptosis-a potential target for the treatment of osteoporosis.",
+  "journal": "Frontiers in endocrinology",
+  "year": "2023",
+  "vol": "14",
+  "pages": "1135181",
+  "authors": "Li D, Gao Z, Li Q, Liu X, Liu H",
+  "doi": "10.3389/fendo.2023.1135181"
+ },
+ "37231261": {
+  "title": "Dictionary learning for integrative, multimodal and scalable single-cell analysis.",
+  "journal": "Nature biotechnology",
+  "year": "2024",
+  "vol": "42",
+  "pages": "293-304",
+  "authors": "Hao Y, Stuart T, Kowalski MH, Choudhary S, Hoffman P, Hartman A, et al",
+  "doi": "10.1038/s41587-023-01767-y"
+ },
+ "37291365": {
+  "title": "Hmrbase2: a comprehensive database of hormones and their receptors.",
+  "journal": "Hormones (Athens, Greece)",
+  "year": "2023",
+  "vol": "22",
+  "pages": "359-366",
+  "authors": "Kaur D, Arora A, Patiyal S, Raghava GPS",
+  "doi": "10.1007/s42000-023-00455-5"
+ },
+ "37350516": {
+  "title": "Receptor Recycling by Retromer.",
+  "journal": "Molecular and cellular biology",
+  "year": "2023",
+  "vol": "43",
+  "pages": "317-334",
+  "authors": "Carosi JM, Denton D, Kumar S, Sargeant TJ",
+  "doi": "10.1080/10985549.2023.2222053"
+ },
+ "37933841": {
+  "title": "The ChEMBL Database in 2023: a drug discovery platform spanning multiple bioactivity data types and time periods.",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "vol": "52",
+  "pages": "D1180-D1192",
+  "authors": "Zdrazil B, Felix E, Hunter F, Manners EJ, Blackshaw J, Corbett S, et al",
+  "doi": "10.1093/nar/gkad1004"
+ },
+ "37938510": {
+  "title": "A Comprehensive Analysis of NRP1 in Malignancies Provide Therapeutic Implication for Treating Cancer Patients Infected with SARS-CoV-2.",
+  "journal": "Biochemical genetics",
+  "year": "2024",
+  "vol": "62",
+  "pages": "2399-2417",
+  "authors": "Chen S, Zhang L, Song Y, Xie K, Wang Y, Liang Y",
+  "doi": "10.1007/s10528-023-10518-2"
+ },
+ "38658320": {
+  "title": "Unraveling Key m(6)A Modification Regulators Signatures in Postmenopausal Osteoporosis through Bioinformatics and Experimental Verification.",
+  "journal": "Orthopaedic surgery",
+  "year": "2024",
+  "vol": "16",
+  "pages": "1418-1433",
+  "authors": "Feng ZW, Xiao HF, Wang XW, Niu YK, Zhao DC, Tian C, et al",
+  "doi": "10.1111/os.14064"
+ },
+ "39741180": {
+  "title": "Trogocytosis-mediated immune evasion in the tumor microenvironment.",
+  "journal": "Experimental & molecular medicine",
+  "year": "2025",
+  "vol": "57",
+  "pages": "1-12",
+  "authors": "Kim J, Park S, Kim J, Kim Y, Yoon HM, Rayhan BR, et al",
+  "doi": "10.1038/s12276-024-01364-2"
+ },
+ "39781724": {
+  "title": "A Novel Prognostic Risk Model Based on Oxidative Stress to Predict Survival and Improve Treatment Strategies in Stomach Adenocarcinoma.",
+  "journal": "Combinatorial chemistry & high throughput screening",
+  "year": "2025",
+  "vol": "28",
+  "pages": "3057-3072",
+  "authors": "Yao N, Lin K, Qu X, Li X, Zhao X, Li S, et al",
+  "doi": "10.2174/0113862073353612241030061241"
+ },
+ "39940314": {
+  "title": "Current Evidence on the Impact of Diet, Food, and Supplement Intake on Breast Cancer Health Outcomes in Patients Undergoing Endocrine Therapy.",
+  "journal": "Nutrients",
+  "year": "2025",
+  "vol": "17",
+  "pages": "",
+  "authors": "\u017du\u017ea Pra\u0161talo M, Pokimica B, Arsi\u0107 A, Ilich JZ, Vu\u010di\u0107 V",
+  "doi": "10.3390/nu17030456"
+ },
+ "40140172": {
+  "title": "Impact of adding palbociclib on treatment adherence to ongoing adjuvant endocrine treatment in the global randomized PALLAS randomized trial in patients with early breast cancer.",
+  "journal": "Breast cancer research and treatment",
+  "year": "2025",
+  "vol": "211",
+  "pages": "385-397",
+  "authors": "Shinn E, Zahrieh D, DeMichele A, Zdenkowski N, Lemieux J, Mao J, et al",
+  "doi": "10.1007/s10549-025-07653-2"
+ },
+ "40299767": {
+  "title": "Spatial Heterogeneity, Stromal Phenotypes, and Therapeutic Vulnerabilities in Colorectal Cancer Peritoneal Metastasis.",
+  "journal": "Clinical Cancer Research",
+  "year": "2025",
+  "vol": "31",
+  "pages": "2515-2529",
+  "authors": "Ong CJ, Zhao JJ, Liu Y, Srivastava S, Chia DKA, Quek YE, et al",
+  "doi": "10.1158/1078-0432.CCR-24-3780"
+ },
+ "40369674": {
+  "title": "Role of tumor microenvironment in ovarian cancer metastasis and clinical advancements.",
+  "journal": "Journal of translational medicine",
+  "year": "2025",
+  "vol": "23",
+  "pages": "539",
+  "authors": "Wang Y, Zhu N, Liu J, Chen F, Song Y, Ma Y, et al",
+  "doi": "10.1186/s12967-025-06508-0"
+ },
+ "41311023": {
+  "title": "Targeting Neuropilin-1 to Enhance Immunotherapy in Melanoma: Reducing Peripheral Treg-Mediated Immunosuppression and Tumour Progression.",
+  "journal": "Immunology",
+  "year": "2026",
+  "vol": "177",
+  "pages": "613-637",
+  "authors": "Khamaru S, Tung KS, Chattopadhyay S",
+  "doi": "10.1111/imm.70072"
+ },
+ "41652295": {
+  "title": "Increased risk of fracture among breast cancer patients: a nationwide retrospective cohort study.",
+  "journal": "Journal of cancer survivorship : research and practice",
+  "year": "2026",
+  "vol": "",
+  "pages": "",
+  "authors": "Cho H, Kim B, Han K, Kim S, Cho IY, Shin DW",
+  "doi": "10.1007/s11764-026-01980-z"
+ },
+ "41803291": {
+  "title": "MYC-SEPT11 Axis Promotes osteoblast differentiation and bone formation via PI3K/AKT and RhoA/ROCK signaling pathways.",
+  "journal": "Functional & integrative genomics",
+  "year": "2026",
+  "vol": "26",
+  "pages": "",
+  "authors": "Zhao Y, Zhu Z, Chen H, Song Y, Wang F, Huang Z, et al",
+  "doi": "10.1007/s10142-026-01849-5"
+ },
+ "41861615": {
+  "title": "Adverse event profile following maintenance olaparib in patients with BRCA-mutated platinum-sensitive relapsed serous ovarian cancer in the phase III SOLO2 trial.",
+  "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+  "year": "2026",
+  "vol": "36",
+  "pages": "104556",
+  "authors": "Ledermann JA, Lortholary A, Penson RT, Asher R, Gebski V, Provencher D, et al",
+  "doi": "10.1016/j.ijgc.2026.104556"
+ },
+ "41951722": {
+  "title": "Phase Ib trial of SL-172154, a bispecific CD47 inhibitor and CD40 agonist Fc-fusion protein, in combination with mirvetuximab soravtansine or pegylated liposomal doxorubicin in patients with platinum-resistant ovarian cancer.",
+  "journal": "British journal of cancer",
+  "year": "2026",
+  "vol": "134",
+  "pages": "1754-1763",
+  "authors": "Drew Y, Gilbert L, Martinez Bueno A, Oaknin A, Moreno V, Gaba Garcia L, et al",
+  "doi": "10.1038/s41416-026-03430-0"
+ },
+ "42136760": {
+  "title": "De-Escalation of Axillary Surgery: A Review of Choosing Wisely Guideline Evidence.",
+  "journal": "World journal of oncology",
+  "year": "2026",
+  "vol": "17",
+  "pages": "277-291",
+  "authors": "Grapes A, Young J, Takabe K",
+  "doi": "10.14740/wjon2710"
+ },
+ "42274886": {
+  "title": "Romosozumab for cancer treatment-induced bone loss in postmenopausal women with hormone receptor-positive breast cancer: a case series.",
+  "journal": "Archives of osteoporosis",
+  "year": "2026",
+  "vol": "21",
+  "pages": "89",
+  "authors": "Tsujino S, Koyanagi H, Sawamura C, Tozuka K, Gokita T",
+  "doi": "10.1007/s11657-026-01724-7"
+ },
+ "42443804": {
+  "title": "Curative-intent tri-modality treatment of de novo bone-only oligometastatic breast cancer: single-center patient outcomes.",
+  "journal": "BMC cancer",
+  "year": "2026",
+  "vol": "26",
+  "pages": "",
+  "authors": "Fernandez JK, Harris G, Leow BYJ, Beith J, Kumar S, McNeil C, et al",
+  "doi": "10.1186/s12885-026-16495-0"
+ },
+ "42453787": {
+  "title": "Treatment Sequencing in Platinum-Resistant Epithelial Ovarian Cancer After MIRASOL, KEYNOTE-B96, and ROSELLA.",
+  "journal": "International journal of women's health",
+  "year": "2026",
+  "vol": "18",
+  "pages": "624084",
+  "authors": "Liu Y, Xu M, Ma J, Zhu Y, Gao M",
+  "doi": "10.2147/IJWH.S624084"
+ },
+ "42467792": {
+  "title": "Hyperwrinkling of the nuclear lamina is associated with attenuated mechanosensitivity in giant nucleated cancer cells.",
+  "journal": "Science advances",
+  "year": "2026",
+  "vol": "12",
+  "pages": "eaed1645",
+  "authors": "Abolghasemzade S, Blanchard R, French C, Dollahon CR, Pham H, Atkins A, et al",
+  "doi": "10.1126/sciadv.aed1645"
+ },
+ "42541454": {
+  "title": "Signal Detection and Temporal Analysis of Aromatase Inhibitor-Associated Hepatotoxicity: A Pharmacovigilance Study Integrating Bayesian Belief-Propagation Network and Frequentist Metrics.",
+  "journal": "The international journal of medical robotics + computer assisted surgery : MRCAS",
+  "year": "2026",
+  "vol": "22",
+  "pages": "e70216",
+  "authors": "Li Y, Zheng H, Wang Y, Yang J, Xu S, Zhan P, et al",
+  "doi": "10.1002/rcs.70216"
+ },
+ "42566090": {
+  "title": "Benefits of PARP inhibitor rechallenge in patients with platinum-sensitive recurrent ovarian cancer previously treated with a PARP inhibitor: a multicenter retrospective study.",
+  "journal": "International journal of clinical oncology",
+  "year": "2026",
+  "vol": "31",
+  "pages": "2158-2168",
+  "authors": "Jo A, Shoji T, Kitamura A, Musashi M, Tatsuki S, Jonai N, et al",
+  "doi": "10.1007/s10147-026-03056-5"
+ },
+ "42567742": {
+  "title": "Nutrition and cardiometabolic health in cystic fibrosis: Emerging evidence and research gaps.",
+  "journal": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
+  "year": "2026",
+  "vol": "",
+  "pages": "",
+  "authors": "Lynch V, Barrett J, Collins S, Elliott P, Sills D, Snowball J, et al",
+  "doi": "10.1016/j.jcf.2026.07.1983"
+ },
+ "42583108": {
+  "title": "Neoadjuvant immunotherapy followed by surgery versus non-operative management in dMMR/MSI gastroesophageal adenocarcinomas: a case series and review of the literature.",
+  "journal": "ESMO gastrointestinal oncology",
+  "year": "2026",
+  "vol": "13",
+  "pages": "100366",
+  "authors": "Demign\u00e9 JB, Caillol F, Guiramand J, Heinisch M, Mitry E, Chanez B, et al",
+  "doi": "10.1016/j.esmogo.2026.100366"
+ },
+ "42625591": {
+  "title": "Female cancers in adolescent and young adult women: global inequities and 2050 burden estimates from GLOBOCAN 2022.",
+  "journal": "Frontiers in oncology",
+  "year": "2026",
+  "vol": "16",
+  "pages": "1896950",
+  "authors": "Ding R, Jia H",
+  "doi": "10.3389/fonc.2026.1896950"
+ },
+ "42627443": {
+  "title": "Epigenetic regulation of ovarian steroidogenesis in PCOS: HDAC inhibitors and short-chain fatty acids.",
+  "journal": "Molecular biology reports",
+  "year": "2026",
+  "vol": "53",
+  "pages": "",
+  "authors": "Ghosh T, Mittal P",
+  "doi": "10.1007/s11033-026-12634-9"
+ },
+ "42705254": {
+  "title": "Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+  "journal": "The Lancet. Oncology",
+  "year": "2026",
+  "vol": "27",
+  "pages": "1221-1236",
+  "authors": "Vergote I, Cibula D, Powell M, Laenen A, Nieuwenhuysen EV, Topuz S, et al",
+  "doi": "10.1016/S1470-2045(26)00223-8"
+ },
+ "42729472": {
+  "title": "Bone formation niche dysfunction in osteoporosis: insights from single-cell and spatial transcriptomic studies.",
+  "journal": "Frontiers in endocrinology",
+  "year": "2026",
+  "vol": "17",
+  "pages": "1909423",
+  "authors": "Tan T, Guo X, Ouyang Z",
+  "doi": "10.3389/fendo.2026.1909423"
+ },
+ "42735742": {
+  "title": "Aromatase inhibitors as endocrine modulators: From breast cancer therapy to male off-label use and doping practice.",
+  "journal": "The Journal of steroid biochemistry and molecular biology",
+  "year": "2027",
+  "vol": "265",
+  "pages": "107121",
+  "authors": "Bandura A, \u010eurina P, \u010camb\u00e1l E, Ke\u010dk\u00e9\u0161 \u0160",
+  "doi": "10.1016/j.jsbmb.2026.107121"
+ },
+ "42755024": {
+  "title": "Cervical, Uterine, and Ovarian Cancers in Chinese Women Aged 55\u2009Years and Older: Burden, Temporal Trends, Risk Attribution, and Future Projections From the Global Burden of Disease Study 2021.",
+  "journal": "The journal of obstetrics and gynaecology research",
+  "year": "2026",
+  "vol": "52",
+  "pages": "e70413",
+  "authors": "Zhang X, Zhu T, Gao Z, Han Z, Zheng S",
+  "doi": "10.1111/jog.70413"
+ },
+ "42814432": {
+  "title": "Global, Regional, and National Burden of Heart Failure, 1990-2023: A Systematic Analysis for the Global Burden of Disease Study 2023.",
+  "journal": "JAMA cardiology",
+  "year": "2026",
+  "vol": "",
+  "pages": "",
+  "authors": "GBD 2023 Heart Failure Collaborators, Johnson CO, Abbasi M, Abbasifard M, Abbastabar H, ElHafeez SA, et al",
+  "doi": "10.1001/jamacardio.2026.4068"
+ },
+ "42825233": {
+  "title": "Medical Device Recalls in Neurosurgery: A United States Regulatory Analysis.",
+  "journal": "Neurosurgery practice",
+  "year": "2026",
+  "vol": "7",
+  "pages": "e000302",
+  "authors": "Bhenderu LS, Gupta P, Schindler A, Kumar S, Cruz-Garza JG, Hassan T, et al",
+  "doi": "10.1227/neuprac.0000000000000302"
+ },
+ "42833929": {
+  "title": "New insights into the pathogenesis of osteoporosis and the translational approach to personalized therapy.",
+  "journal": "Best practice & research. Clinical rheumatology",
+  "year": "2026",
+  "vol": "",
+  "pages": "102208",
+  "authors": "Li B, Liu L, Luo E, Liu H, Rosen CJ",
+  "doi": "10.1016/j.berh.2026.102208"
+ },
+ "42836163": {
+  "title": "The Dual Role of Piezo1 in Cancer: Mechanotransduction, Microenvironment Remodelling, and Therapeutic Opportunities.",
+  "journal": "Drug design, development and therapy",
+  "year": "2026",
+  "vol": "20",
+  "pages": "640902",
+  "authors": "Jiang H, Liu Y, Xue F, Sun H, Ji Y, Qi L",
+  "doi": "10.2147/DDDT.S640902"
+ },
+ "42854320": {
+  "title": "Association Between Multidisciplinary Team Meetings and Short-Term Postoperative Outcomes in Gastrointestinal Malignancies: A Retrospective Cohort Study.",
+  "journal": "Cancer control : journal of the Moffitt Cancer Center",
+  "year": "2026",
+  "vol": "33",
+  "pages": "10732748261495563",
+  "authors": "Zhao H, Liu B, Wu M, Ding G, Yan Y, Fu W",
+  "doi": "10.1177/10732748261495563"
+ },
+ "42857004": {
+  "title": "Ferroptosis in osteoporosis: core mechanisms, cell-specific effects in bone remodelling, and therapeutic perspectives.",
+  "journal": "Frontiers in endocrinology",
+  "year": "2026",
+  "vol": "17",
+  "pages": "1945454",
+  "authors": "Wu Z, Shao G",
+  "doi": "10.3389/fendo.2026.1945454"
+ },
+ "42858962": {
+  "title": "Peptide\u2011calcium chelates from microalgae enhance calcium bioavailability and regulate osteogenic and osteoclastogenic signaling in ovariectomized mice.",
+  "journal": "Food research international (Ottawa, Ont.)",
+  "year": "2026",
+  "vol": "244",
+  "pages": "120212",
+  "authors": "Li S, Tu C, Wang C, Yang T, Guo H, Hou H",
+  "doi": "10.1016/j.foodres.2026.120212"
+ },
+ "42865715": {
+  "title": "Clinical trial landscape and translational priorities for adoptive T-cell and NK-cell therapies in gynecologic malignancies.",
+  "journal": "Frontiers in immunology",
+  "year": "2026",
+  "vol": "17",
+  "pages": "1936815",
+  "authors": "Chen Q, Zhu Y, Ye S, Wang Y, Lin H",
+  "doi": "10.3389/fimmu.2026.1936815"
+ },
+ "42865868": {
+  "title": "The mechanical niche in gastric precancer: extracellular matrix remodeling, mechanotransduction, and stem-cell fate.",
+  "journal": "Frontiers in cell and developmental biology",
+  "year": "2026",
+  "vol": "14",
+  "pages": "1970363",
+  "authors": "Hu L, Huang X, Zhang T, Wu Y, Yang L, Zhu J, et al",
+  "doi": "10.3389/fcell.2026.1970363"
+ },
+ "42866848": {
+  "title": "Prognostic value of I\u03baB kinase-interacting protein (IKBIP) in stomach adenocarcinoma.",
+  "journal": "Translational gastroenterology and hepatology",
+  "year": "2026",
+  "vol": "11",
+  "pages": "106",
+  "authors": "Xia T, Kang Q, Zhang H, Wen X, Yang Z",
+  "doi": "10.21037/tgh-2026-0071"
+ },
+ "42870294": {
+  "title": "Carboxylesterase 1 is a core metabolic vulnerability of platinum-resistant high-grade serous ovarian carcinoma.",
+  "journal": "Journal of experimental & clinical cancer research : CR",
+  "year": "2026",
+  "vol": "45",
+  "pages": "45",
+  "authors": "Flati I, Vecchiotti D, Di Giovanni F, Verzella D, Dall'Aglio F, Sarra A, et al",
+  "doi": "10.1186/s13046-026-03766-8"
+ },
+ "42870574": {
+  "title": "Relationship between serum cotinine and risk of tooth loss in adults: A comprehensive statistical framework and molecular mechanisms.",
+  "journal": "European journal of oral sciences",
+  "year": "2026",
+  "vol": "",
+  "pages": "e70156",
+  "authors": "Dang X, Yang R, Li H, Liu J, Jiang J, Qin Z, et al",
+  "doi": "10.1111/eos.70156"
+ },
+ "42870759": {
+  "title": "Effects of glucagon-like peptide-1 (GLP-1) mono-agonists on reward processing in animal models: a systematic review.",
+  "journal": "Acta neuropsychiatrica",
+  "year": "2026",
+  "vol": "38",
+  "pages": "e55",
+  "authors": "Zheng YJ, Au HCT, Le GH, Wong S, Teopiz KM, Kwan ATH, et al",
+  "doi": "10.1017/neu.2026.10097"
+ },
+ "25605792": {
+  "title": "limma powers differential expression analyses for RNA-sequencing and microarray studies.",
+  "journal": "Nucleic acids research",
+  "year": "2015",
+  "vol": "43",
+  "pages": "e47",
+  "authors": "Ritchie ME, Phipson B, Wu D, Hu Y, Law CW, Shi W, et al",
+  "doi": "10.1093/nar/gkv007"
+ },
+ "32444850": {
+  "title": "Visualizing and interpreting cancer genomics data via the Xena platform.",
+  "journal": "Nature biotechnology",
+  "year": "2020",
+  "vol": "38",
+  "pages": "675-678",
+  "authors": "Goldman MJ, Craft B, Hastie M, Repe\u010dka K, McDade F, Kamath A, et al",
+  "doi": "10.1038/s41587-020-0546-8"
+ },
+ "27397505": {
+  "title": "A Landscape of Pharmacogenomic Interactions in Cancer.",
+  "journal": "Cell",
+  "year": "2016",
+  "vol": "166",
+  "pages": "740-754",
+  "authors": "Iorio F, Knijnenburg TA, Vis DJ, Bignell GR, Menden MP, Schubert M, et al",
+  "doi": "10.1016/j.cell.2016.06.017"
+ },
+ "32913098": {
+  "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues.",
+  "journal": "Science (New York, N.Y.)",
+  "year": "2020",
+  "vol": "369",
+  "pages": "1318-1330",
+  "authors": "GTEx Consortium",
+  "doi": "10.1126/science.aaz1776"
+ },
+ "19847166": {
+  "pmid": "19847166",
+  "title": "Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1.",
+  "journal": "Nature",
+  "year": "2009",
+  "vol": "462",
+  "pages": "108-12",
+  "authors": "Barbie DA, Tamayo P, Boehm JS, Kim SY, Moody SE, Dunn IF, et al",
+  "doi": "10.1038/nature08460"
+ },
+ "28650338": {
+  "pmid": "28650338",
+  "title": "IFN-\u03b3-related mRNA profile predicts clinical response to PD-1 blockade.",
+  "journal": "The Journal of clinical investigation",
+  "year": "2017",
+  "vol": "127",
+  "pages": "2930-2940",
+  "authors": "Ayers M, Lunceford J, Nebozhyn M, Murphy E, Loboda A, Kaufman DR, et al",
+  "doi": "10.1172/JCI91190"
+ },
+ "41171849": {
+  "pmid": "41171849",
+  "title": "Genomic and transcriptomic landscape of carcinogenesis in patients with gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS).",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2025",
+  "vol": "122",
+  "pages": "e2427133122",
+  "authors": "Matsumoto C, Takahashi KK, Iwatsuki M, Yasuda-Yoshihara N, Niida A, Yamashita K, et al",
+  "doi": "10.1073/pnas.2427133122"
+ },
+ "25894828": {
+  "pmid": "25894828",
+  "title": "Molecular analysis of gastric cancer identifies subtypes associated with distinct clinical outcomes.",
+  "journal": "Nature Medicine",
+  "year": "2015",
+  "vol": "21",
+  "pages": "449-56",
+  "authors": "Cristescu R, Lee J, Nebozhyn M, Kim KM, Ting JC, Wong SS, et al",
+  "doi": "10.1038/nm.3850"
+ },
+ "28747339": {
+  "pmid": "28747339",
+  "title": "Clinical Significance of Four Molecular Subtypes of Gastric Cancer Identified by The Cancer Genome Atlas Project.",
+  "journal": "Clinical Cancer Research",
+  "year": "2017",
+  "vol": "23",
+  "pages": "4441-4449",
+  "authors": "Sohn BH, Hwang JE, Jang HJ, Lee HS, Oh SC, Shim JJ, et al",
+  "doi": "10.1158/1078-0432.CCR-16-2211"
+ },
+ "29543932": {
+  "pmid": "29543932",
+  "title": "Safety and Efficacy of Pembrolizumab Monotherapy in Patients With Previously Treated Advanced Gastric and Gastroesophageal Junction Cancer: Phase 2 Clinical KEYNOTE-059 Trial.",
+  "journal": "JAMA oncology",
+  "year": "2018",
+  "vol": "4",
+  "pages": "e180013",
+  "authors": "Fuchs CS, Doi T, Jang RW, Muro K, Satoh T, Machado M, et al",
+  "doi": "10.1001/jamaoncol.2018.0013"
+ },
+ "42871183": {
+  "pmid": "42871183",
+  "title": "Case Report: Immune checkpoint inhibitor-induced hypophysitis presenting as acute paralytic ileus mimicking mechanical bowel obstruction in a patient affected by advanced non-small cell lung cancer.",
+  "journal": "Frontiers in oncology",
+  "year": "2026",
+  "vol": "16",
+  "pages": "1934901",
+  "authors": "Baggi A, Adriani A, Ammoni LC, Carola G, Morocutti F, Zefinetti LC, et al",
+  "doi": "10.3389/fonc.2026.1934901"
+ },
+ "34069602": {
+  "pmid": "34069602",
+  "title": "The Role of Trogocytosis in the Modulation of Immune Cell Functions.",
+  "journal": "Cells",
+  "year": "2021",
+  "vol": "10",
+  "pages": "1255",
+  "authors": "Miyake K, Karasuyama H",
+  "doi": "10.3390/cells10051255"
+ },
+ "42459656": {
+  "pmid": "42459656",
+  "title": "Immune checkpoint inhibitors plus trastuzumab and chemotherapy for the treatment of advanced HER2-positive gastric and gastroesophageal junction cancers: a systematic review and meta-analysis.",
+  "journal": "Frontiers in immunology",
+  "year": "2026",
+  "vol": "17",
+  "pages": "1832353",
+  "authors": "Zhan H, Zhang H, Tian C, Liu P, Sun W",
+  "doi": "10.3389/fimmu.2026.1832353"
+ },
+ "41693709": {
+  "pmid": "41693709",
+  "title": "Integrated analysis of single-cell and bulk transcriptomes reveals the prognostic value of polyamine metabolism biomarkers and immune microenvironment features in gastric cancer.",
+  "journal": "Frontiers in immunology",
+  "year": "2025",
+  "vol": "16",
+  "pages": "1658975",
+  "authors": "Chen K, Chen Y, Hu Q, Zheng J, Liu Y",
+  "doi": "10.3389/fimmu.2025.1658975"
+ },
+ "25079317": {
+  "pmid": "25079317",
+  "title": "Comprehensive molecular characterization of gastric adenocarcinoma.",
+  "journal": "Nature",
+  "year": "2014",
+  "vol": "513",
+  "pages": "202-9",
+  "authors": "Cancer Genome Atlas Research Network",
+  "doi": "10.1038/nature13480"
+ },
+ "28993052": {
+  "pmid": "28993052",
+  "title": "Nivolumab in patients with advanced gastric or gastro-oesophageal junction cancer refractory to, or intolerant of, at least two previous chemotherapy regimens (ONO-4538-12, ATTRACTION-2): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+  "journal": "Lancet (London, England)",
+  "year": "2017",
+  "vol": "390",
+  "pages": "2461-2471",
+  "authors": "Kang YK, Boku N, Satoh T, Ryu MH, Chao Y, Kato K, et al",
+  "doi": "10.1016/S0140-6736(17)31827-5"
+ },
+ "20728210": {
+  "pmid": "20728210",
+  "title": "Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial.",
+  "journal": "Lancet (London, England)",
+  "year": "2010",
+  "vol": "376",
+  "pages": "687-97",
+  "authors": "Bang YJ, Van Cutsem E, Feyereislova A, Chung HC, Shen L, Sawaki A, et al",
+  "doi": "10.1016/S0140-6736(10)61121-X"
+ },
+ "41081048": {
+  "pmid": "41081048",
+  "title": "Machine learning based immune evasion signature for predicting the prognosis and immunotherapy benefit in stomach adenocarcinoma.",
+  "journal": "Frontiers in cell and developmental biology",
+  "year": "2025",
+  "vol": "13",
+  "pages": "1656367",
+  "authors": "Xue W, Zhang G, Yang C, Tan T, Zhang W, Chen H",
+  "doi": "10.3389/fcell.2025.1656367"
+ },
+ "30918399": {
+  "pmid": "30918399",
+  "title": "CAR T cell trogocytosis and cooperative killing regulate tumour antigen escape.",
+  "journal": "Nature",
+  "year": "2019",
+  "vol": "568",
+  "pages": "112-116",
+  "authors": "Hamieh M, Dobrin A, Cabriolu A, van der Stegen SJC, Giavridis T, Mansilla-Soto J, et al",
+  "doi": "10.1038/s41586-019-1054-1"
+ },
+ "32894370": {
+  "pmid": "32894370",
+  "title": "Gastric cancer: a comprehensive review of current and future treatment strategies.",
+  "journal": "Cancer metastasis reviews",
+  "year": "2020",
+  "vol": "39",
+  "pages": "1179-1203",
+  "authors": "Sexton RE, Al Hallak MN, Diab M, Azmi AS",
+  "doi": "10.1007/s10555-020-09925-3"
+ },
+ "27300434": {
+  "pmid": "27300434",
+  "title": "YAP/TAZ at the Roots of Cancer.",
+  "journal": "Cancer cell",
+  "year": "2016",
+  "vol": "29",
+  "pages": "783-803",
+  "authors": "Zanconato F, Cordenonsi M, Piccolo S",
+  "doi": "10.1016/j.ccell.2016.05.005"
+ },
+ "42827527": {
+  "pmid": "42827527",
+  "title": "PARP inhibitor-based first-line maintenance therapy for newly diagnosed advanced ovarian cancer across molecular subgroups: an updated systematic review and network meta-analysis.",
+  "journal": "Frontiers in oncology",
+  "year": "2026",
+  "vol": "16",
+  "pages": "1884407",
+  "authors": "Feng J, Qin X, Mo X",
+  "doi": "10.3389/fonc.2026.1884407"
+ },
+ "26493647": {
+  "pmid": "26493647",
+  "title": "Rethinking ovarian cancer II: reducing mortality from high-grade serous ovarian cancer.",
+  "journal": "Nature reviews. Cancer",
+  "year": "2015",
+  "vol": "15",
+  "pages": "668-79",
+  "authors": "Bowtell DD, B\u00f6hm S, Ahmed AA, Aspuria PJ, Bast RC Jr, Beral V, et al",
+  "doi": "10.1038/nrc4019"
+ },
+ "26351349": {
+  "pmid": "26351349",
+  "title": "Safety and Antitumor Activity of Anti-PD-1 Antibody, Nivolumab, in Patients With Platinum-Resistant Ovarian Cancer.",
+  "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+  "year": "2015",
+  "vol": "33",
+  "pages": "4015-22",
+  "authors": "Hamanishi J, Mandai M, Ikeda T, Minami M, Kawaguchi A, Murayama T, et al",
+  "doi": "10.1200/JCO.2015.62.3397"
+ },
+ "33716786": {
+  "pmid": "33716786",
+  "title": "Vessel Enlargement in Development and Pathophysiology.",
+  "journal": "Frontiers in physiology",
+  "year": "2021",
+  "vol": "12",
+  "pages": "639645",
+  "authors": "Gifre-Renom L, Jones EAV",
+  "doi": "10.3389/fphys.2021.639645"
+ },
+ "21654799": {
+  "pmid": "21654799",
+  "title": "Role of YAP/TAZ in mechanotransduction.",
+  "journal": "Nature",
+  "year": "2011",
+  "vol": "474",
+  "pages": "179-83",
+  "authors": "Dupont S, Morsut L, Aragona M, Enzo E, Giulitti S, Cordenonsi M, et al",
+  "doi": "10.1038/nature10137"
+ },
+ "41301076": {
+  "pmid": "41301076",
+  "title": "Comparative Analysis of Maintenance Treatments in Patients with Newly Diagnosed Advanced Ovarian Cancer After First-Line Platinum-Based Regimens.",
+  "journal": "Cancers",
+  "year": "2025",
+  "vol": "17",
+  "pages": "",
+  "authors": "Gasperoni L, Cancanelli L, Ossato A, Del Bono L, Vecchia S, Fontanella C, et al",
+  "doi": "10.3390/cancers17223714"
+ },
+ "30345884": {
+  "pmid": "30345884",
+  "title": "Maintenance Olaparib in Patients with Newly Diagnosed Advanced Ovarian Cancer.",
+  "journal": "The New England journal of medicine",
+  "year": "2018",
+  "vol": "379",
+  "pages": "2495-2505",
+  "authors": "Moore K, Colombo N, Scambia G, Kim BG, Oaknin A, Friedlander M, et al",
+  "doi": "10.1056/NEJMoa1810858"
+ },
+ "17634140": {
+  "pmid": "17634140",
+  "title": "Biology of RANK, RANKL, and osteoprotegerin.",
+  "journal": "Arthritis research & therapy",
+  "year": "2007",
+  "vol": "9 Suppl 1",
+  "pages": "S1",
+  "authors": "Boyce BF, Xing L",
+  "doi": "10.1186/ar2165"
+ },
+ "41568387": {
+  "pmid": "41568387",
+  "title": "Comparative effectiveness of bone-protective interventions for aromatase inhibitors-induced bone loss in postmenopausal women with early breast cancer: a network meta-analysis.",
+  "journal": "Frontiers in oncology",
+  "year": "2025",
+  "vol": "15",
+  "pages": "1638370",
+  "authors": "Xu Y, Lai J, Mai M, Tang Y, Wu Z",
+  "doi": "10.3389/fonc.2025.1638370"
+ },
+ "37293430": {
+  "pmid": "37293430",
+  "title": "RNA-ligand molecular docking: advances and challenges.",
+  "journal": "Wiley interdisciplinary reviews. Computational molecular science",
+  "year": "2022",
+  "vol": "12",
+  "pages": "",
+  "authors": "Zhou Y, Jiang Y, Chen SJ",
+  "doi": "10.1002/wcms.1571"
+ },
+ "32801018": {
+  "pmid": "32801018",
+  "title": "Bone health in cancer: ESMO Clinical Practice Guidelines.",
+  "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+  "year": "2020",
+  "vol": "31",
+  "pages": "1650-1663",
+  "authors": "Coleman R, Hadji P, Body JJ, Santini D, Chow E, Terpos E, et al",
+  "doi": "10.1016/j.annonc.2020.07.019"
+ },
+ "40726588": {
+  "pmid": "40726588",
+  "title": "Management of aromatase inhibitor-associated bone loss (AIBL) in women with hormone-sensitive breast cancer: An updated joint position statement of the IOF, CABS, ECTS, IEG, ESCEO, IMS, and SIOG.",
+  "journal": "Journal of bone oncology",
+  "year": "2025",
+  "vol": "53",
+  "pages": "100694",
+  "authors": "Hadji P, Aapro M, Al-Dagri N, Alokail M, Biver E, Body JJ, et al",
+  "doi": "10.1016/j.jbo.2025.100694"
+ },
+ "23148298": {
+  "pmid": "23148298",
+  "title": "The retromer complex - endosomal protein recycling and beyond.",
+  "journal": "Journal of cell science",
+  "year": "2012",
+  "vol": "125",
+  "pages": "4693-702",
+  "authors": "Seaman MN",
+  "doi": "10.1242/jcs.103440"
+ },
+ "23389618": {
+  "pmid": "23389618",
+  "title": "WNT signaling in bone homeostasis and disease: from human mutations to treatments.",
+  "journal": "Nature Medicine",
+  "year": "2013",
+  "vol": "19",
+  "pages": "179-92",
+  "authors": "Baron R, Kneissel M",
+  "doi": "10.1038/nm.3074"
+ },
+ "42251166": {
+  "pmid": "42251166",
+  "title": "Understanding the spatial determinants of the Oxford Classic prognostic signature for high-grade serous ovarian cancer.",
+  "journal": "Communications Medicine",
+  "year": "2026",
+  "vol": "6",
+  "pages": "6",
+  "authors": "Stihi A, Yau C",
+  "doi": "10.1038/s43856-026-01708-1"
+ },
+ "40705052": {
+  "pmid": "40705052",
+  "title": "Oxford Classic-Defined EMT Risk Stratification of High-Grade Serous Ovarian Cancer for Guiding Treatment Decisions.",
+  "journal": "Clinical Cancer Research",
+  "year": "2026",
+  "vol": "32",
+  "pages": "188-202",
+  "authors": "Rai L, Ravaggi A, Bignotti E, Hollis RL, Garsed DW, Pandey A, et al",
+  "doi": "10.1158/1078-0432.CCR-24-4250"
+ },
+ "42403084": {
+  "pmid": "42403084",
+  "title": "Bone-related adverse events of hormonal therapy: A pharmacovigilance study based on the Food & Drug Administration Adverse Event Reporting System.",
+  "journal": "The Journal of international medical research",
+  "year": "2026",
+  "vol": "54",
+  "pages": "3000605261463660",
+  "authors": "Wang Y, Li A, Wang J, Xie M",
+  "doi": "10.1177/03000605261463660"
+ },
+ "11998548": {
+  "pmid": "11998548",
+  "title": "A comparison of measures of disproportionality for signal detection in spontaneous reporting systems for adverse drug reactions.",
+  "journal": "Pharmacoepidemiology and drug safety",
+  "year": "2002",
+  "vol": "11",
+  "pages": "3-10",
+  "authors": "van Puijenbroek EP, Bate A, Leufkens HG, Lindquist M, Orre R, Egberts AC",
+  "doi": "10.1002/pds.668"
+ },
+ "12419242": {
+  "pmid": "12419242",
+  "title": "Leptin regulates bone formation via the sympathetic nervous system.",
+  "journal": "Cell",
+  "year": "2002",
+  "vol": "111",
+  "pages": "305-17",
+  "authors": "Takeda S, Elefteriou F, Levasseur R, Liu X, Zhao L, Parker KL, et al",
+  "doi": "10.1016/s0092-8674(02)01049-8"
+ },
+ "20392224": {
+  "pmid": "20392224",
+  "title": "Lrp5 and bone formation : A serotonin-dependent pathway.",
+  "journal": "Annals of the New York Academy of Sciences",
+  "year": "2010",
+  "vol": "1192",
+  "pages": "103-9",
+  "authors": "Yadav VK, Ducy P",
+  "doi": "10.1111/j.1749-6632.2009.05312.x"
+ },
+ "33446563": {
+  "pmid": "33446563",
+  "title": "The Oxford Classic Links Epithelial-to-Mesenchymal Transition to Immunosuppression in Poor Prognosis Ovarian Cancers.",
+  "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+  "year": "2021",
+  "vol": "27",
+  "pages": "1570-1579",
+  "authors": "Hu Z, Cunnea P, Zhong Z, Lu H, Osagie OI, Campo L, et al",
+  "doi": "10.1158/1078-0432.CCR-20-2782"
+ },
+ "28398314": {
+  "pmid": "28398314",
+  "title": "Toil enables reproducible, open source, big biomedical data analyses.",
+  "journal": "Nature biotechnology",
+  "year": "2017",
+  "vol": "35",
+  "pages": "314-316",
+  "authors": "Vivian J, Rao AA, Nothaft FA, Ketchum C, Armstrong J, Novak A, et al",
+  "doi": "10.1038/nbt.3772"
+ },
+ "28159814": {
+  "pmid": "28159814",
+  "title": "Bevacizumab May Differentially Improve Ovarian Cancer Outcome in Patients with Proliferative and Mesenchymal Molecular Subtypes.",
+  "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+  "year": "2017",
+  "vol": "23",
+  "pages": "3794-3801",
+  "authors": "Kommoss S, Winterhoff B, Oberg AL, Konecny GE, Wang C, Riska SM, et al",
+  "doi": "10.1158/1078-0432.CCR-16-2196"
+ },
+ "24478986": {
+  "pmid": "24478986",
+  "title": "Gene expression analysis in ovarian cancer - faults and hints from DNA microarray study.",
+  "journal": "Frontiers in oncology",
+  "year": "2014",
+  "vol": "4",
+  "pages": "6",
+  "authors": "Lisowska KM, Olbryt M, Dudaladava V, Pamu\u0142a-Pi\u0142at J, Kujawa K, Grzybowska E, et al",
+  "doi": "10.3389/fonc.2014.00006"
+ },
+ "20300634": {
+  "pmid": "20300634",
+  "title": "Gene expression profile for predicting survival in advanced-stage serous ovarian cancer across two independent datasets.",
+  "journal": "PloS one",
+  "year": "2010",
+  "vol": "5",
+  "pages": "e9615",
+  "authors": "Yoshihara K, Tajima A, Yahata T, Kodama S, Fujiwara H, Suzuki M, et al",
+  "doi": "10.1371/journal.pone.0009615"
+ },
+ "19294737": {
+  "pmid": "19294737",
+  "title": "A prognostic gene expression index in ovarian cancer - validation across different independent data sets.",
+  "journal": "The Journal of pathology",
+  "year": "2009",
+  "vol": "218",
+  "pages": "273-80",
+  "authors": "Denkert C, Budczies J, Darb-Esfahani S, Gy\u00f6rffy B, Sehouli J, K\u00f6nsgen D, et al",
+  "doi": "10.1002/path.2547"
+ },
+ "20547991": {
+  "pmid": "20547991",
+  "title": "Gene expression profile of BRCAness that correlates with responsiveness to chemotherapy and with outcome in patients with epithelial ovarian cancer.",
+  "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+  "year": "2010",
+  "vol": "28",
+  "pages": "3555-61",
+  "authors": "Konstantinopoulos PA, Spentzos D, Karlan BY, Taniguchi T, Fountzilas E, Francoeur N, et al",
+  "doi": "10.1200/JCO.2009.27.5719"
+ },
+ "19962670": {
+  "pmid": "19962670",
+  "title": "A gene signature predictive for outcome in advanced ovarian cancer identifies a survival factor: microfibril-associated glycoprotein 2.",
+  "journal": "Cancer cell",
+  "year": "2009",
+  "vol": "16",
+  "pages": "521-32",
+  "authors": "Mok SC, Bonome T, Vathipadiekal V, Bell A, Johnson ME, Wong KK, et al",
+  "doi": "10.1016/j.ccr.2009.10.018"
+ },
+ "22348014": {
+  "pmid": "22348014",
+  "title": "Multi-gene expression predictors of single drug responses to adjuvant chemotherapy in ovarian carcinoma: predicting platinum resistance.",
+  "journal": "PloS one",
+  "year": "2012",
+  "vol": "7",
+  "pages": "e30550",
+  "authors": "Ferriss JS, Kim Y, Duska L, Birrer M, Levine DA, Moskaluk C, et al",
+  "doi": "10.1371/journal.pone.0030550"
+ },
+ "35196078": {
+  "pmid": "35196078",
+  "title": "Longitudinal single-cell RNA-seq analysis reveals stress-promoted chemoresistance in metastatic ovarian cancer.",
+  "journal": "Science advances",
+  "year": "2022",
+  "vol": "8",
+  "pages": "eabm1831",
+  "authors": "Zhang K, Erkan EP, Jamalzadeh S, Dai J, Andersson N, Kaipio K, et al",
+  "doi": "10.1126/sciadv.abm1831"
+ },
+ "31046082": {
+  "pmid": "31046082",
+  "title": "Antitumor activity and safety of pembrolizumab in patients with advanced recurrent ovarian cancer: results from the phase II KEYNOTE-100 study.",
+  "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+  "year": "2019",
+  "vol": "30",
+  "pages": "1080-1087",
+  "authors": "Matulonis UA, Shapira-Frommer R, Santin AD, Lisyanskaya AS, Pignata S, Vergote I, et al",
+  "doi": "10.1093/annonc/mdz135"
+ },
+ "31562799": {
+  "pmid": "31562799",
+  "title": "Niraparib in Patients with Newly Diagnosed Advanced Ovarian Cancer.",
+  "journal": "The New England journal of medicine",
+  "year": "2019",
+  "vol": "381",
+  "pages": "2391-2402",
+  "authors": "Gonz\u00e1lez-Mart\u00edn A, Pothuri B, Vergote I, DePont Christensen R, Graybill W, Mirza MR, et al",
+  "doi": "10.1056/NEJMoa1910962"
+ },
+ "21720365": {
+  "pmid": "21720365",
+  "title": "Integrated genomic analyses of ovarian carcinoma.",
+  "journal": "Nature",
+  "year": "2011",
+  "vol": "474",
+  "pages": "609-15",
+  "authors": "Cancer Genome Atlas Research Network",
+  "doi": "10.1038/nature10166"
+ },
+ "27065756": {
+  "pmid": "27065756",
+  "title": "Regularization Paths for Cox's Proportional Hazards Model via Coordinate Descent.",
+  "journal": "Journal of statistical software",
+  "year": "2011",
+  "vol": "39",
+  "pages": "1-13",
+  "authors": "Simon N, Friedman J, Hastie T, Tibshirani R",
+  "doi": "10.18637/jss.v039.i05"
+ },
+ "28754483": {
+  "pmid": "28754483",
+  "title": "Olaparib tablets as maintenance therapy in patients with platinum-sensitive, relapsed ovarian cancer and a BRCA1/2 mutation (SOLO2/ENGOT-Ov21): a double-blind, randomised, placebo-controlled, phase 3 trial.",
+  "journal": "The Lancet. Oncology",
+  "year": "2017",
+  "vol": "18",
+  "pages": "1274-1284",
+  "authors": "Pujade-Lauraine E, Ledermann JA, Selle F, Gebski V, Penson RT, Oza AM, et al",
+  "doi": "10.1016/S1470-2045(17)30469-2"
+ },
+ "31537801": {
+  "pmid": "31537801",
+  "title": "DNA methylation loss promotes immune evasion of tumours with high mutation and copy number load.",
+  "journal": "Nature communications",
+  "year": "2019",
+  "vol": "10",
+  "pages": "4278",
+  "authors": "Jung H, Kim HS, Kim JY, Sun JM, Ahn JS, Ahn MJ, et al",
+  "doi": "10.1038/s41467-019-12159-9"
+ },
+ "30753825": {
+  "pmid": "30753825",
+  "title": "Distinct Immune Cell Populations Define Response to Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy.",
+  "journal": "Cancer cell",
+  "year": "2019",
+  "vol": "35",
+  "pages": "238-255.e6",
+  "authors": "Gide TN, Quek C, Menzies AM, Tasker AT, Shang P, Holst J, et al",
+  "doi": "10.1016/j.ccell.2019.01.003"
+ },
+ "32879421": {
+  "pmid": "32879421",
+  "title": "Genome-wide identification of differentially methylated promoters and enhancers associated with response to anti-PD-1 therapy in non-small cell lung cancer.",
+  "journal": "Experimental & molecular medicine",
+  "year": "2020",
+  "vol": "52",
+  "pages": "1550-1563",
+  "authors": "Cho JW, Hong MH, Ha SJ, Kim YJ, Cho BC, Lee I, et al",
+  "doi": "10.1038/s12276-020-00493-8"
+ },
+ "34265844": {
+  "title": "Highly accurate protein structure prediction with AlphaFold.",
+  "journal": "Nature",
+  "year": "2021",
+  "vol": "596",
+  "pages": "583-9",
+  "authors": "Jumper J, Evans R, Pritzel A, Green T, Figurnov M, Ronneberger O, Tunyasuvunakool K, Bates R, Zidek A, Potapenko A, Bridgland A, Meyer C, Kohl SAA, Ballard AJ, Cowie A, Romera-Paredes B, Nikolov S, Jain R, Adler J, Back T, Petersen S, Reiman D, Clancy E, Zielinski M, Steinegger M, Pacholska M, Berghammer T, Bodenstein S, Silver D, Vinyals O, Senior AW, Kavukcuoglu K, Kohli P, Hassabis D",
+  "doi": "10.1038/s41586-021-03819-2"
+ },
+ "37933859": {
+  "title": "AlphaFold Protein Structure Database in 2024: providing structure coverage for over 214 million protein sequences.",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "vol": "52",
+  "pages": "D368-75",
+  "authors": "Varadi M, Bertoni D, Magana P, Paramval U, Pidruchna I, Radhakrishnan M, Tsenkov M, Nair S, Mirdita M, Yeo J, Kovalevskiy O, Tunyasuvunakool K, Laydon A, Zidek A, Tomlinson H, Hariharan D, Abrahamson J, Green T, Jumper J, Birney E, Steinegger M, Hassabis D, Velankar S",
+  "doi": "10.1093/nar/gkad1011"
+ },
+ "42240727": {
+  "title": "Occurrence of anticancer drugs and widely used pharmaceuticals in sewage sludge, compost, and river sediment.",
+  "journal": "Environmental science and pollution research international",
+  "year": "2026",
+  "vol": "33",
+  "pages": "9394-407",
+  "authors": "Alitalo OS, Gutovskaia E, Rantalainen AL, Pellinen J",
+  "doi": "10.1007/s11356-026-37898-3"
+ },
+ "38452838": {
+  "title": "Letrozole induced a polycystic ovary syndrome model in zebrafish by interfering with the hypothalamic-pituitary-gonadal axis.",
+  "journal": "Environmental pollution",
+  "year": "2024",
+  "vol": "347",
+  "pages": "123723",
+  "authors": "Zhang F, Tang C, Wang J, Lin T, Ge W, He C, Yang C, Zuo Z",
+  "doi": "10.1016/j.envpol.2024.123723"
+ },
+ "33915448": {
+  "title": "Global expression response of genes in sex-undifferentiated Nile tilapia gonads after exposure to trace letrozole.",
+  "journal": "Ecotoxicology and environmental safety",
+  "year": "2021",
+  "vol": "217",
+  "pages": "112255",
+  "authors": "Teng J, Zhao Y, Chen HJ, Xue LY",
+  "doi": "10.1016/j.ecoenv.2021.112255"
+ },
+ "31099392": {
+  "title": "Differential Sensitivity to In Vitro Inhibition of Cytochrome P450 Aromatase (CYP19) Activity Among 18 Freshwater Fishes.",
+  "journal": "Toxicological sciences",
+  "year": "2019",
+  "vol": "170",
+  "pages": "394-403",
+  "authors": "Doering JA, Villeneuve DL, Fay KA, Randolph EC, Ankley GT",
+  "doi": "10.1093/toxsci/kfz115"
+ },
+ "33254902": {
+  "title": "Solar photo-Fenton treatment of the anti-cancer drug anastrozole in different aqueous matrices at near-neutral pH: Transformation products identification, pathways proposal, and in silico (Q)SAR risk assessment.",
+  "journal": "The Science of the total environment",
+  "year": "2021",
+  "vol": "754",
+  "pages": "142300",
+  "authors": "Sanabria P, Scunderlick D, Wilde ML, L\u00fcdtke DS, Sirtori C",
+  "doi": "10.1016/j.scitotenv.2020.142300"
+ },
+ "21963593": {
+  "title": "Transcriptional responses in Japanese medaka (Oryzias latipes) exposed to binary mixtures of an estrogen and anti-estrogens.",
+  "journal": "Aquatic toxicology",
+  "year": "2011",
+  "vol": "105",
+  "pages": "629-39",
+  "authors": "Sun L, Shao X, Hu X, Chi J, Jin Y, Ye W, Fu Z",
+  "doi": "10.1016/j.aquatox.2011.08.024"
+ },
+ "24006913": {
+  "title": "The read-across hypothesis and environmental risk assessment of pharmaceuticals.",
+  "authors": "Rand-Weaver M, Margiotta-Casaluci L, Patel A, Panter GH, Owen SF, Sumpter JP",
+  "journal": "Environ Sci Technol",
+  "year": "2013",
+  "volume": "47",
+  "pages": "11384-95",
+  "doi": "10.1021/es402065a",
+  "pmid": "24006913"
+ },
+ "25338069": {
+  "title": "Quantitative cross-species extrapolation between humans and fish: the case of the anti-depressant fluoxetine.",
+  "authors": "Margiotta-Casaluci L, Owen SF, Cumming RI, de Polo A, Winter MJ, Panter GH et al.",
+  "journal": "PLoS One",
+  "year": "2014",
+  "volume": "9",
+  "pages": "e110467",
+  "doi": "10.1371/journal.pone.0110467",
+  "pmid": "25338069"
+ },
+ "39558165": {
+  "title": "PubChem 2025 update.",
+  "authors": "Kim S, Chen J, Cheng T, Gindulyte A, He J, He S, Li Q, Shoemaker BA, Thiessen PA, Yu B, Zaslavsky L, Zhang J, Bolton EE",
+  "journal": "Nucleic Acids Res",
+  "year": "2025",
+  "volume": "53",
+  "pages": "D1516-D1525",
+  "doi": "10.1093/nar/gkae1059",
+  "pmid": "39558165"
+ }
+}

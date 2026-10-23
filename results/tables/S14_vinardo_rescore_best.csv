@@ -1,0 +1,7 @@
+target,ligand,pose,vinardo_total,vinardo_LR,vina,delta
+human_CYP19A1,anastrozole,1,-4.976,-6.722,-7.12,2.144
+human_CYP19A1,letrozole,1,-4.701,-6.075,-7.22,2.519
+human_VPS35,anastrozole,1,-4.196,-5.667,-6.004,1.8079999999999998
+human_VPS35,letrozole,1,-3.986,-5.151,-6.029,2.0429999999999997
+zebrafish_Cyp19a1a,anastrozole,1,-5.076,-6.856,-7.201,2.125
+zebrafish_Cyp19a1a,letrozole,5,-5.21,-6.733,-7.632,2.4219999999999997

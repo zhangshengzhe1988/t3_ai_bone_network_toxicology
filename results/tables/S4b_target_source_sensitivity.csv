@@ -1,0 +1,3 @@
+drug,chembl_n,swisstarget_n,merged_n,chembl_in_disease,swisstarget_in_disease,merged_in_disease
+letrozole,41,7,48,1,4,5
+anastrozole,32,8,40,3,5,8

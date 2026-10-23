@@ -1,0 +1,11 @@
+human_residue,aa,zebrafish_residue,identical
+ARG115,R,R135,True
+ILE133,I,I153,True
+ILE132,I,I152,True
+PHE148,F,Y168,False
+PHE221,F,F241,True
+TRP224,W,W244,True
+PHE430,F,F449,True
+LEU477,L,L496,True
+SER478,S,S497,True
+VAL370,V,V389,True
